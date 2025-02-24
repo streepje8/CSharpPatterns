@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace CodingPatterns.GeneralCSharp
+﻿namespace CodingPatterns.GeneralCSharp
 {
     public class TryGet
     {

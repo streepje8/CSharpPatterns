@@ -1,3 +1,6 @@
 *.meta
 *.asmdef
 .idea
+*.DotSettings.user
+[Bb]in
+[Oo]bj

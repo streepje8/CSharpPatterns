@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Unity.Cecil">
+        <HintPath>C:\Program Files\Unity 6000.0.25f1\Editor\Data\Managed\Unity.Cecil.dll</HintPath>
+      </Reference>
+      <Reference Include="Unity.Cecil.Mdb">
+        <HintPath>C:\Program Files\Unity 6000.0.25f1\Editor\Data\Managed\Unity.Cecil.Mdb.dll</HintPath>
+      </Reference>
+      <Reference Include="Unity.Cecil.Pdb">
+        <HintPath>C:\Program Files\Unity 6000.0.25f1\Editor\Data\Managed\Unity.Cecil.Pdb.dll</HintPath>
+      </Reference>
+      <Reference Include="Unity.Cecil.Rocks">
+        <HintPath>C:\Program Files\Unity 6000.0.25f1\Editor\Data\Managed\Unity.Cecil.Rocks.dll</HintPath>
+      </Reference>
+      <Reference Include="Unity.CecilTools">
+        <HintPath>C:\Program Files\Unity 6000.0.25f1\Editor\Data\Managed\Unity.CecilTools.dll</HintPath>
+      </Reference>
+      <Reference Include="Unity.CompilationPipeline.Common">
+        <HintPath>C:\Program Files\Unity 6000.0.25f1\Editor\Data\Managed\Unity.CompilationPipeline.Common.dll</HintPath>
+      </Reference>
+      <Reference Include="Unity.SerializationLogic">
+        <HintPath>C:\Program Files\Unity 6000.0.25f1\Editor\Data\Managed\Unity.SerializationLogic.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEditor">
+        <HintPath>C:\Program Files\Unity 6000.0.25f1\Editor\Data\Managed\UnityEditor.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEditor.Graphs">
+        <HintPath>C:\Program Files\Unity 6000.0.25f1\Editor\Data\Managed\UnityEditor.Graphs.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine">
+        <HintPath>C:\Program Files\Unity 6000.0.25f1\Editor\Data\Managed\UnityEngine.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>
